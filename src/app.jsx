@@ -18,8 +18,8 @@ function App() {
     setKeyword(dataArr);
   }
 
-  const getAPI = async() => {
-    await axios.get('trends/trendingsearches/daily/rss?geo=KR')
+  const getAPI = () => {
+    axios.get('/trends/trendingsearches/daily/rss?geo=KR')
       .then((res)=>{
         const dataSet = res.data;
         parseStr(dataSet);
