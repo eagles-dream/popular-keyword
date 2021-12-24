@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4.5em;
+  width: 100%;
+  background-color: var(--main-light-color);
+  position: sticky;
+  top: 0;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4.5em;
+  width: 60%;
+  background-color: var(--main-color);
+  color: var(--main-text-color);
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    height: 3.5em;
+  }
+
+  .banner {
+    height: 3.5em;
+    width: 100%;
+  }
+}
