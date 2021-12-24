@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/popular-keyword/static/css/main.c372acc3.chunk.css",
-    "main.js": "/popular-keyword/static/js/main.25dce4eb.chunk.js",
-    "main.js.map": "/popular-keyword/static/js/main.25dce4eb.chunk.js.map",
+    "main.js": "/popular-keyword/static/js/main.e2ba6a87.chunk.js",
+    "main.js.map": "/popular-keyword/static/js/main.e2ba6a87.chunk.js.map",
     "runtime-main.js": "/popular-keyword/static/js/runtime-main.2138a085.js",
     "runtime-main.js.map": "/popular-keyword/static/js/runtime-main.2138a085.js.map",
-    "static/js/2.c4ed8143.chunk.js": "/popular-keyword/static/js/2.c4ed8143.chunk.js",
-    "static/js/2.c4ed8143.chunk.js.map": "/popular-keyword/static/js/2.c4ed8143.chunk.js.map",
+    "static/js/2.5ce676eb.chunk.js": "/popular-keyword/static/js/2.5ce676eb.chunk.js",
+    "static/js/2.5ce676eb.chunk.js.map": "/popular-keyword/static/js/2.5ce676eb.chunk.js.map",
     "index.html": "/popular-keyword/index.html",
     "static/css/main.c372acc3.chunk.css.map": "/popular-keyword/static/css/main.c372acc3.chunk.css.map",
-    "static/js/2.c4ed8143.chunk.js.LICENSE.txt": "/popular-keyword/static/js/2.c4ed8143.chunk.js.LICENSE.txt"
+    "static/js/2.5ce676eb.chunk.js.LICENSE.txt": "/popular-keyword/static/js/2.5ce676eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2138a085.js",
-    "static/js/2.c4ed8143.chunk.js",
+    "static/js/2.5ce676eb.chunk.js",
     "static/css/main.c372acc3.chunk.css",
-    "static/js/main.25dce4eb.chunk.js"
+    "static/js/main.e2ba6a87.chunk.js"
   ]
 }
