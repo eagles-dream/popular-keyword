@@ -19,7 +19,7 @@ function App() {
   }
 
   const getAPI = async() => {
-    await axios.get('/trends/trendingsearches/daily/rss?geo=KR')
+    await axios.get('trends/trendingsearches/daily/rss?geo=KR')
       .then((res)=>{
         const dataSet = res.data;
         parseStr(dataSet);
